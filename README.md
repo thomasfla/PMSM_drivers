@@ -43,3 +43,10 @@ https://github.com/mjbots/moteus
 Open source; Open hardware
 
 Single axis
+
+
+### Janus-Controller
+Open? no CAD
+
+Single axis
+https://github.com/byDagor/Janus-Controller
