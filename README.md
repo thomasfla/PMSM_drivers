@@ -50,3 +50,10 @@ Open? no CAD
 
 Single axis
 https://github.com/byDagor/Janus-Controller
+
+### Tinymovr
+Open Source Firmware
+Single axis
+Nice PAC5527 solution (MCU + Gate driver + Current sensing)
+https://tinymovr.com/
+
