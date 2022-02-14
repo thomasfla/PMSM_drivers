@@ -61,3 +61,11 @@ Nice PAC5527 solution (MCU + Gate driver + Current sensing)
 
 https://tinymovr.com/
 
+### Rosmo_ESC
+Open Source; Open hardware
+
+Dual axis
+
+Nice small footprint drivers including shunt resistor, gate drivers and mosfets
+https://github.com/rosmo-robot/Rosmo_ESC#readme
+
