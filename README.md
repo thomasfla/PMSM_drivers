@@ -4,7 +4,9 @@ list of open source permanent magnet synchronous motor drivers
 
 ### omodri
 https://github.com/open-dynamic-robot-initiative/open-motor-driver-initiative
+
 Open source
+
 Dual axis
 
 ### uDriver
